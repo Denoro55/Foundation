@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'gothic';
+    src: url('../fonts/Newgtbxc.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avian';
+    src: url('../fonts/AVIAN.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helv';
+    src: url('../fonts/HelveticaLTStd-BoldCond.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'myriad';
+    src: url('../fonts/MyriadPro-Semibold.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
